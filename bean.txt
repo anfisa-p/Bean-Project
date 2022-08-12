@@ -1,4 +1,5 @@
 corn
 bean bean
 hey
+salt
 bean
